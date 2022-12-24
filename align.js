@@ -13,3 +13,15 @@ function Create_Element(tag,attr_tag, attr_name, vale){
     document.body.append(custom_elements)
 }
 
+// Condtion
+if (site.includes("youtube.com")){
+   
+    Add_Custom_Style(`
+     
+    ytd-shorts{
+            --ytd-shorts-masthead-height: 23px;
+            --ytd-shorts-top-spacing: -24px;
+        }
+
+   `)
+}
