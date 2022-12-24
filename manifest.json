@@ -1,3 +1,19 @@
 {
-    "name": "YouTube Shorts Fix"
+    "name": "YouTube Shorts Fix",
+    "description": "Chrome with Bookmarks: Fixing a bug in the YouTube shorts: Website version.",
+    "version": "1",
+    "manifest_version": 3,
+    "icons": {
+        "128": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.youtube.com/shorts/*"
+            ],
+            "js":[
+                "align.js"
+            ]
+        }
+    ]
 }
