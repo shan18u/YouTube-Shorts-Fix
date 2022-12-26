@@ -1,5 +1,5 @@
 # YouTube-Shorts-Fix
-**_Chrome_Extension that Fix the alignments of YouTube shorts: Website version._**
+**_Chrome Extension that Fix the alignments of YouTube shorts: Website version._**
 
 A simple way to _see the Youtube Short's bottom buttons more visible._
 
