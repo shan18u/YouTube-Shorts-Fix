@@ -7,6 +7,10 @@ If you have bookmarks in your chrome, then you might be having difficulties in a
 
 This extension fix those misalignment through customized css.
 
+**_For link see below:_**
+
+https://chrome.google.com/webstore/detail/youtube-shorts-fix-alignm/helmjholamjokcegjkpfppfoigloccpi/overview
+
 **_Below is the preview of the extension on my YouTube Channel:_**
 
 https://www.youtube.com/watch?v=NBoz1wDR0gc
