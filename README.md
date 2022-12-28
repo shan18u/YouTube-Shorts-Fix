@@ -13,8 +13,7 @@ https://chrome.google.com/webstore/detail/youtube-shorts-fix-alignm/helmjholamjo
 
 **_Below is the preview of the extension on my YouTube Channel:_**
 
-https://www.youtube.com/watch?v=NBoz1wDR0gc
-
+https://www.youtube.com/watch?v=WraMftVphnY
 
 **_Screenshots:_**
 
