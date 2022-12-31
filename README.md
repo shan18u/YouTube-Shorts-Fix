@@ -11,9 +11,11 @@ This extension fix those misalignment through customized css.
 
 https://chrome.google.com/webstore/detail/youtube-shorts-fix-alignm/helmjholamjokcegjkpfppfoigloccpi/overview
 
-**_Below is the preview of the extension on my YouTube Channel:_**
+**_Below is the preview of the extension:_**
 
-https://www.youtube.com/watch?v=WraMftVphnY
+
+https://user-images.githubusercontent.com/20603692/210121446-3b76da7b-6fef-4d21-8ab0-9cb37d36d547.mov
+
 
 **_Screenshots:_**
 
