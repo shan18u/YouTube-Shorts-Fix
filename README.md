@@ -9,7 +9,7 @@ This extension fix those misalignment through customized css.
 
 **_For link see below:_**
 
-https://chrome.google.com/webstore/detail/youtube-shorts-fix-alignm/helmjholamjokcegjkpfppfoigloccpi/overview
+https://chrome.google.com/webstore/detail/youtube-shorts-fix-alignm/ookciiajnhpomdkmclpifojajednpmfb?hl=en-GB&authuser=0
 
 **_Below is the preview of the extension:_**
 
