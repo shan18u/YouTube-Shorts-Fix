@@ -1,4 +1,9 @@
 # YouTube-Shorts-Fix
+
+**_Achievement:_**
+
+Gained **_20+ Active Users_** with 100+ views! on YouTube.
+ 
 **_Chrome Extension that Fix the alignments of YouTube shorts: Website version._**
 
 This Chrome Extension provides a solution for improving visibility of the bottom buttons on Youtube Shorts videos. The issue of misaligned buttons can make it challenging for users to access important features such as the subscribe button or music icon.
@@ -6,6 +11,7 @@ This Chrome Extension provides a solution for improving visibility of the bottom
 Our solution is based on customizing the existing CSS of the platform to ensure that the bottom buttons are properly aligned and easily accessible to the user. This simple yet effective approach ensures a seamless viewing experience on Youtube Shorts.
 
 Upgrade your Youtube Short viewing experience with our easy-to-install chrome extension. Say goodbye to the frustration of misaligned buttons and enjoy the full functionality of your favourite video platform.
+
 
 **_For link see below:_**
 
