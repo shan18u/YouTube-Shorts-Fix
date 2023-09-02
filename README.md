@@ -26,10 +26,12 @@ https://user-images.githubusercontent.com/20603692/210121446-3b76da7b-6fef-4d21-
 
 
 **_Screenshots:_** <br>
-<img width="416" alt="Thumbnail" src="https://user-images.githubusercontent.com/20603692/209498822-184fb571-c2bd-48c1-a8d2-dc650873e52c.png">
+<img width="500" alt="Thumbnail" src="https://github.com/shan18u/YouTube-Shorts-Fix/assets/20603692/b31bd919-ca7e-4193-8130-851b48604819"> 
 
-**_Analytics:_** <br>
+
+**_Analytics:_** <br><br>
 <img width="700" alt="Screenshot" src="https://github.com/shan18u/YouTube-Shorts-Fix/assets/20603692/fdef61ba-8e3d-4459-b0a5-249eb33f7173">
 <img width="300" alt="ScreenshotAnalytics" src="https://github.com/shan18u/YouTube-Shorts-Fix/assets/20603692/5c5c77a2-344f-4fe8-9042-4782599022b5">
 
+**_Update:_** <br>
 The extension served its purpose well in addressing a YouTube alignment issue, but with YouTube having since fixed that problem, it's no longer needed for most users. As a result, I've decided to make this extension unlisted, effectively taking it down from the public store. But kept it in private mode so users who still want to use can keep using it. 
