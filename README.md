@@ -31,3 +31,5 @@ https://user-images.githubusercontent.com/20603692/210121446-3b76da7b-6fef-4d21-
 **_Analytics:_** <br>
 <img width="700" alt="Screenshot" src="https://github.com/shan18u/YouTube-Shorts-Fix/assets/20603692/998b521a-1b94-4644-8e6b-d7df24d6d96f">
 <img width="300" alt="ScreenshotAnalytics" src="https://github.com/shan18u/YouTube-Shorts-Fix/assets/20603692/5c5c77a2-344f-4fe8-9042-4782599022b5">
+
+The extension served its purpose well in addressing a YouTube alignment issue, but with YouTube having since fixed that problem, it's no longer needed for most users. As a result, I've decided to make this extension unlisted, effectively taking it down from the public store.
